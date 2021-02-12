@@ -3,6 +3,7 @@ import { getFamilyMembers, useFamilyMembers } from "./FamilyProvider.js"
 import { getFamilyChores, useFamilyChores } from "./FamilyChoreProvider.js"
 import { FamilyMember } from "./FamilyMember.js"
 
+// targeting empty section tag on main
 const contentTarget = document.querySelector(".family")
 
 /*

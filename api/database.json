@@ -34,6 +34,41 @@
         {
             "id": 4,
             "familyMemberId": 2,
+            "choreId": 1
+        },
+        {
+            "id": 4,
+            "familyMemberId": 3,
+            "choreId": 3
+        },
+        {
+            "id": 5,
+            "familyMemberId": 4,
+            "choreId": 6
+        },
+        {
+            "id": 6,
+            "familyMemberId": 5,
+            "choreId": 4
+        },
+        {
+            "id": 7,
+            "familyMemberId": 6,
+            "choreId": 2
+        },
+        {
+            "id": 8,
+            "familyMemberId": 6,
+            "choreId": 5
+        },
+        {
+            "id": 9,
+            "familyMemberId": 5,
+            "choreId": 4
+        },
+        {
+            "id": 10,
+            "familyMemberId": 3,
             "choreId": 3
         }
     ]
