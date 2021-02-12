@@ -1,0 +1,40 @@
+{
+    "familyMembers": [
+        { "id": 1, "name": "Mom" },
+        { "id": 2, "name": "Dad" },
+        { "id": 3, "name": "Sarah" },
+        { "id": 4, "name": "Blake" },
+        { "id": 5, "name": "Sophia" },
+        { "id": 6, "name": "Michael" }
+    ],
+    "chores": [
+        { "id": 1, "task": "Paint Garage" },
+        { "id": 2, "task": "Take out the trash" },
+        { "id": 3, "task": "Do the laundry" },
+        { "id": 4, "task": "Clean the bedrooms" },
+        { "id": 5, "task": "Family game night" },
+        { "id": 6, "task": "Feed the dog" }
+    ],
+    "familyChores": [
+        {
+            "id": 1,
+            "familyMemberId": 1,
+            "choreId": 4
+        },
+        {
+            "id": 2,
+            "familyMemberId": 1,
+            "choreId": 5
+        },
+        {
+            "id": 3,
+            "familyMemberId": 2,
+            "choreId": 5
+        },
+        {
+            "id": 4,
+            "familyMemberId": 2,
+            "choreId": 3
+        }
+    ]
+}
