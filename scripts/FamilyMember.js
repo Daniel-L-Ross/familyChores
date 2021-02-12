@@ -1,3 +1,4 @@
+// this code takes in a personObject and a choreArray and returns an HTML string
 export const FamilyMember = (person, chores) => {
     return `
         <section class="familyMember">
